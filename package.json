@@ -1,0 +1,21 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "Playwright demo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roy-ching/playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roy-ching/playwright/issues"
+  },
+  "homepage": "https://github.com/roy-ching/playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.34.0"
+  }
+}
